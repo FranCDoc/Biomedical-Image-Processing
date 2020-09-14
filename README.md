@@ -1,1 +1,2 @@
-# Biomedical Image Processing Algorithms; CT-Segmentation. 
+# Biomedical Image Processing Algorithms
+Machine Learning algorithms for automatic detection and segmentation of anatomical structures in medical images. CT-Segmentation. 
